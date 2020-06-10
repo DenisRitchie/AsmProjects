@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Archivos de origen">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Archivos de encabezado">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Archivos de recursos">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="TestInlineAsm.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="CH02-01-IntegerAddSub.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="CH02-02-IntegerLogical.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="CppAsm.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="CH02-03-IntegerShift.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="CH02-04-IntegerMulDiv.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="CH02-05-Mixed-Types.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="CH02-06-MemoryAddressing.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="CH02-07-Condition-Codes.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="Fibonacci.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="CH03-01-CalcArraySum.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="CH03-02-UsingElementsInCalculations.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="CH03-03-Two-Dimensional-Arrays.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="CH03-04-RowColumnCalculations.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="CH03-05-Structures.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="CH03-06-CountingCharacters.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="CH03-07-StringConcatenation.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <MASM Include="CH02-01-IntegerAddSub-MASM.asm">
+      <Filter>Archivos de origen</Filter>
+    </MASM>
+    <MASM Include="CH02-02-IntegerLogical-MASM.asm">
+      <Filter>Archivos de origen</Filter>
+    </MASM>
+    <MASM Include="CH02-03-IntegerShift-MASM.asm">
+      <Filter>Archivos de origen</Filter>
+    </MASM>
+    <MASM Include="CH02-04-IntegerMulDiv-MASM.asm">
+      <Filter>Archivos de origen</Filter>
+    </MASM>
+    <MASM Include="CH02-05-Mixed-Types-MASM.asm">
+      <Filter>Archivos de origen</Filter>
+    </MASM>
+    <MASM Include="CH02-06-MemoryAddressing-MASM.asm">
+      <Filter>Archivos de origen</Filter>
+    </MASM>
+    <MASM Include="CH02-07-Condition-Codes-MASM.asm">
+      <Filter>Archivos de origen</Filter>
+    </MASM>
+    <MASM Include="Fibonacci-MASM.asm">
+      <Filter>Archivos de origen</Filter>
+    </MASM>
+    <MASM Include="CH03-01-CalcArraySum-MASM.asm">
+      <Filter>Archivos de origen</Filter>
+    </MASM>
+    <MASM Include="CH03-02-UsingElementsInCalculations-MASM.asm">
+      <Filter>Archivos de origen</Filter>
+    </MASM>
+    <MASM Include="CH03-03-Two-Dimensional-Arrays-MASM.asm">
+      <Filter>Archivos de origen</Filter>
+    </MASM>
+    <MASM Include="CH03-04-RowColumnCalculations-MASM.asm">
+      <Filter>Archivos de origen</Filter>
+    </MASM>
+    <MASM Include="CH03-05-Structures-MASM.asm">
+      <Filter>Archivos de origen</Filter>
+    </MASM>
+    <MASM Include="CH03-06-CountingCharacters-MASM.asm">
+      <Filter>Archivos de origen</Filter>
+    </MASM>
+    <MASM Include="CH03-07-StringConcatenation-MASM.asm">
+      <Filter>Archivos de origen</Filter>
+    </MASM>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="CH03-02-UsingElementsInCalculations-MASM.png">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+  </ItemGroup>
+</Project>

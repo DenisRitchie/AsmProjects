@@ -13,6 +13,7 @@
 using namespace std;
 
 extern void Fibonacci_Test();
+
 extern void CH02_01_IntegerAddSub_Test();
 extern void CH02_02_IntegerLogical_Test();
 extern void CH02_03_IntegerShift_Test();
@@ -20,6 +21,7 @@ extern void CH02_04_IntegerMulDiv_Test();
 extern void CH02_05_Mixed_Types_Test();
 extern void CH02_06_MemoryAddressing_Test();
 extern void CH02_07_SignedMinMax_Test();
+
 extern void CH03_01_CalcArraySum_Test();
 extern void CH03_02_CalcArrayValues_Test();
 extern void CH03_03_CalcMatrixSquares_Test();
@@ -27,6 +29,8 @@ extern void CH03_04_CalcMatrixRowColSums_Test();
 extern void CH03_05_CalcTestStructSum_Test();
 extern void CH03_06_CountingCharacters_Test();
 extern void CH03_07_ConcatString_Test();
+extern void CH03_08_CompareArrays_Test();
+extern void CH03_09_ReverseArray_Test();
 
 int main()
 {
@@ -44,8 +48,11 @@ int main()
   // CH03_04_CalcMatrixRowColSums_Test();
   // CH03_05_CalcTestStructSum_Test();
   // CH03_06_CountingCharacters_Test();
-  CH03_07_ConcatString_Test();
+  // CH03_07_ConcatString_Test();
+  // CH03_08_CompareArrays_Test();
+  // CH03_09_ReverseArray_Test();
 
   _getch();
   return 0;
 }
+

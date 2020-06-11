@@ -66,6 +66,12 @@
     <ClCompile Include="CH03-07-StringConcatenation.cpp">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
+    <ClCompile Include="CH03-08-Comparing-Arrays.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="CH03-09-ReverseArray.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <MASM Include="CH02-01-IntegerAddSub-MASM.asm">
@@ -111,6 +117,12 @@
       <Filter>Archivos de origen</Filter>
     </MASM>
     <MASM Include="CH03-07-StringConcatenation-MASM.asm">
+      <Filter>Archivos de origen</Filter>
+    </MASM>
+    <MASM Include="CH03-08-Comparing-Arrays-MASM.asm">
+      <Filter>Archivos de origen</Filter>
+    </MASM>
+    <MASM Include="CH03-09-ReverseArray-MASM.asm">
       <Filter>Archivos de origen</Filter>
     </MASM>
   </ItemGroup>

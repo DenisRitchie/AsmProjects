@@ -34,6 +34,8 @@
     <ClCompile Include="CH03-05-Structures.cpp" />
     <ClCompile Include="CH03-06-CountingCharacters.cpp" />
     <ClCompile Include="CH03-07-StringConcatenation.cpp" />
+    <ClCompile Include="CH03-08-Comparing-Arrays.cpp" />
+    <ClCompile Include="CH03-09-ReverseArray.cpp" />
     <ClCompile Include="Fibonacci.cpp" />
     <ClCompile Include="TestInlineAsm.cpp" />
     <ClCompile Include="CH02-01-IntegerAddSub.cpp" />
@@ -54,6 +56,8 @@
     <MASM Include="CH03-05-Structures-MASM.asm" />
     <MASM Include="CH03-06-CountingCharacters-MASM.asm" />
     <MASM Include="CH03-07-StringConcatenation-MASM.asm" />
+    <MASM Include="CH03-08-Comparing-Arrays-MASM.asm" />
+    <MASM Include="CH03-09-ReverseArray-MASM.asm" />
     <MASM Include="Fibonacci-MASM.asm" />
   </ItemGroup>
   <ItemGroup>
